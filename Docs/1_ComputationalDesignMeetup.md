@@ -55,7 +55,8 @@
 
 - We'll start with a "Hello world" web page using the most basic HTML and then add in some more advanced styling and functionality using CSS and JavaScript to display a building model in a 3D web map
 
-<img src="Assets/CProgramming.jpg" alt="Vantagepoint Home Page" width="800"/>
+#### Fun fact: the original "Hello, world" code example comes from:
+<img src="Assets/CProgramming.jpg" alt="Original 'Hello, World' book" width="500"/>
 
 - Resources:
     - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
