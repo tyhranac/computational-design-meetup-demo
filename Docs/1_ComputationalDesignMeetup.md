@@ -11,7 +11,7 @@
 3. Build!
    - Create a building viewer website
 
-<img src="image.png" alt="Building in Scene Layer" width="800"/>
+<img src="Assets/1_BuildingViewer.png" alt="Building in Scene Layer" width="800"/>
 
 ### 1: Setup our development environment
 
@@ -47,7 +47,7 @@
 
 - Our favorite web app as an example:
 
-<img src="image-1.png" alt="Vantagepoint Home Page" width="800"/>
+<img src="Assets/Vantagepoint.png" alt="Vantagepoint Home Page" width="800"/>
 
 - We'll be focused on writing _frontend_ code, developing ways for users to interact with out building models via the web!
 
